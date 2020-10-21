@@ -5,11 +5,11 @@ html {
  }
 
 body {
-  background:teal;
+  background: pink;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 5rem;
   text-decoration: overline underline green dashed;
   
 }
