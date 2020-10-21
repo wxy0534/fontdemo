@@ -5,11 +5,11 @@ html {
  }
 
 body {
-  background:teal;
+  background: purple;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   text-decoration: overline underline green dashed;
   
 }
